@@ -1,6 +1,6 @@
 ### Hi, I'm Shakil Ahamed
 #### MERN stack developer
-![MERN stack developer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/269934456_106108598613051_3724686215362254335_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEXDXXpP2A0vuKO20ciClozlzHmMtkPH7uXMeYy2Q8fu0qbRZ-iepbfrjUDZxVxTSLZz-PPLG6H8Nc3yug3mnRp&_nc_ohc=a_CedxXijS4AX_mxvw6&_nc_ht=scontent.fdac80-1.fna&oh=00_AT_RIuyUHMsIW19PI0TVXp2y-tCy-2nc9p2sII1OOTGq4g&oe=62B72476)
+![MERN stack developer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
